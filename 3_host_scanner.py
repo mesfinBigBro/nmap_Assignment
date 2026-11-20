@@ -18,3 +18,6 @@ def nmap_host(IP):
         else:
                 print('invlaid ip address')
 nmap_host(IP)                                                                                                                                                 
+
+#how to use it
+#3_host_scanner.py 127.0.0.1 c
