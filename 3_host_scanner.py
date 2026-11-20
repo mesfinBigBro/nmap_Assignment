@@ -20,4 +20,5 @@ def nmap_host(IP):
 nmap_host(IP)                                                                                                                                                 
 
 #how to use it
-#3_host_scanner.py 127.0.0.1 c
+# 3_host_scanner.py <ip address> <network class>
+#E.g. 3_host_scanner.py 127.0.0.1 c
